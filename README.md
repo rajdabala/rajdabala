@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajdabala, you can call me Raj
-- 👀 I’m interested in combining computer science and economics
+- 👀 I’m interested in combining computer science and mathematics/statistics and economics
 - 🌱 I’m currently learning Java, Python, R, and C/C++
 - 🔆 I’m looking to collaborate on machine learning and data analysis projects
 - 📫 My phone number is (502) 356 - 5150
